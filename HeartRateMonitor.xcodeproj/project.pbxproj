@@ -7,15 +7,333 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		560CE9EF2CF376B500136D40 /* S_11 10.wav in Resources */ = {isa = PBXBuildFile; fileRef = 560CE9EB2CF376B400136D40 /* S_11 10.wav */; };
+		560CE9F02CF376B500136D40 /* A_3 10.wav in Resources */ = {isa = PBXBuildFile; fileRef = 560CE9D42CF376B400136D40 /* A_3 10.wav */; };
+		560CE9F12CF376B500136D40 /* A_7 10.wav in Resources */ = {isa = PBXBuildFile; fileRef = 560CE9D82CF376B400136D40 /* A_7 10.wav */; };
+		560CE9F22CF376B500136D40 /* S_1 10.wav in Resources */ = {isa = PBXBuildFile; fileRef = 560CE9E12CF376B400136D40 /* S_1 10.wav */; };
+		560CE9F32CF376B500136D40 /* A_2 10.wav in Resources */ = {isa = PBXBuildFile; fileRef = 560CE9D32CF376B400136D40 /* A_2 10.wav */; };
+		560CE9F42CF376B500136D40 /* A_11 10.wav in Resources */ = {isa = PBXBuildFile; fileRef = 560CE9DC2CF376B400136D40 /* A_11 10.wav */; };
+		560CE9F52CF376B500136D40 /* A_5 10.wav in Resources */ = {isa = PBXBuildFile; fileRef = 560CE9D62CF376B400136D40 /* A_5 10.wav */; };
+		560CE9F62CF376B500136D40 /* A_4 10.wav in Resources */ = {isa = PBXBuildFile; fileRef = 560CE9D52CF376B400136D40 /* A_4 10.wav */; };
+		560CE9F72CF376B500136D40 /* S_3 10.wav in Resources */ = {isa = PBXBuildFile; fileRef = 560CE9E32CF376B400136D40 /* S_3 10.wav */; };
+		560CE9F82CF376B500136D40 /* S_12 10.wav in Resources */ = {isa = PBXBuildFile; fileRef = 560CE9EC2CF376B400136D40 /* S_12 10.wav */; };
+		560CE9F92CF376B500136D40 /* S_8 10.wav in Resources */ = {isa = PBXBuildFile; fileRef = 560CE9E82CF376B400136D40 /* S_8 10.wav */; };
+		560CE9FA2CF376B500136D40 /* S_14 10.wav in Resources */ = {isa = PBXBuildFile; fileRef = 560CE9EE2CF376B400136D40 /* S_14 10.wav */; };
+		560CE9FB2CF376B500136D40 /* S_10 10.wav in Resources */ = {isa = PBXBuildFile; fileRef = 560CE9EA2CF376B400136D40 /* S_10 10.wav */; };
+		560CE9FC2CF376B500136D40 /* A_9 10.wav in Resources */ = {isa = PBXBuildFile; fileRef = 560CE9DA2CF376B400136D40 /* A_9 10.wav */; };
+		560CE9FD2CF376B500136D40 /* S_6 10.wav in Resources */ = {isa = PBXBuildFile; fileRef = 560CE9E62CF376B400136D40 /* S_6 10.wav */; };
+		560CE9FE2CF376B500136D40 /* S_7 10.wav in Resources */ = {isa = PBXBuildFile; fileRef = 560CE9E72CF376B400136D40 /* S_7 10.wav */; };
+		560CE9FF2CF376B500136D40 /* A_6 10.wav in Resources */ = {isa = PBXBuildFile; fileRef = 560CE9D72CF376B400136D40 /* A_6 10.wav */; };
+		560CEA002CF376B500136D40 /* A_1 10.wav in Resources */ = {isa = PBXBuildFile; fileRef = 560CE9D22CF376B400136D40 /* A_1 10.wav */; };
+		560CEA012CF376B500136D40 /* A_13 10.wav in Resources */ = {isa = PBXBuildFile; fileRef = 560CE9DE2CF376B400136D40 /* A_13 10.wav */; };
+		560CEA022CF376B500136D40 /* A_14 10.wav in Resources */ = {isa = PBXBuildFile; fileRef = 560CE9DF2CF376B400136D40 /* A_14 10.wav */; };
+		560CEA032CF376B500136D40 /* S_5 10.wav in Resources */ = {isa = PBXBuildFile; fileRef = 560CE9E52CF376B400136D40 /* S_5 10.wav */; };
+		560CEA042CF376B500136D40 /* S_13 10.wav in Resources */ = {isa = PBXBuildFile; fileRef = 560CE9ED2CF376B400136D40 /* S_13 10.wav */; };
+		560CEA052CF376B500136D40 /* MainTrack 10.wav in Resources */ = {isa = PBXBuildFile; fileRef = 560CE9E02CF376B400136D40 /* MainTrack 10.wav */; };
+		560CEA062CF376B500136D40 /* S_2 10.wav in Resources */ = {isa = PBXBuildFile; fileRef = 560CE9E22CF376B400136D40 /* S_2 10.wav */; };
+		560CEA072CF376B500136D40 /* S_4 10.wav in Resources */ = {isa = PBXBuildFile; fileRef = 560CE9E42CF376B400136D40 /* S_4 10.wav */; };
+		560CEA082CF376B500136D40 /* A_8 10.wav in Resources */ = {isa = PBXBuildFile; fileRef = 560CE9D92CF376B400136D40 /* A_8 10.wav */; };
+		560CEA092CF376B500136D40 /* A_10 10.wav in Resources */ = {isa = PBXBuildFile; fileRef = 560CE9DB2CF376B400136D40 /* A_10 10.wav */; };
+		560CEA0A2CF376B500136D40 /* A_12 10.wav in Resources */ = {isa = PBXBuildFile; fileRef = 560CE9DD2CF376B400136D40 /* A_12 10.wav */; };
+		560CEA0B2CF376B500136D40 /* S_9 10.wav in Resources */ = {isa = PBXBuildFile; fileRef = 560CE9E92CF376B400136D40 /* S_9 10.wav */; };
+		560CEA0C2CF376B500136D40 /* S_11 10.wav in Resources */ = {isa = PBXBuildFile; fileRef = 560CE9EB2CF376B400136D40 /* S_11 10.wav */; };
+		560CEA0D2CF376B500136D40 /* A_3 10.wav in Resources */ = {isa = PBXBuildFile; fileRef = 560CE9D42CF376B400136D40 /* A_3 10.wav */; };
+		560CEA0E2CF376B500136D40 /* A_7 10.wav in Resources */ = {isa = PBXBuildFile; fileRef = 560CE9D82CF376B400136D40 /* A_7 10.wav */; };
+		560CEA0F2CF376B500136D40 /* S_1 10.wav in Resources */ = {isa = PBXBuildFile; fileRef = 560CE9E12CF376B400136D40 /* S_1 10.wav */; };
+		560CEA102CF376B500136D40 /* A_2 10.wav in Resources */ = {isa = PBXBuildFile; fileRef = 560CE9D32CF376B400136D40 /* A_2 10.wav */; };
+		560CEA112CF376B500136D40 /* A_11 10.wav in Resources */ = {isa = PBXBuildFile; fileRef = 560CE9DC2CF376B400136D40 /* A_11 10.wav */; };
+		560CEA122CF376B500136D40 /* A_5 10.wav in Resources */ = {isa = PBXBuildFile; fileRef = 560CE9D62CF376B400136D40 /* A_5 10.wav */; };
+		560CEA132CF376B500136D40 /* A_4 10.wav in Resources */ = {isa = PBXBuildFile; fileRef = 560CE9D52CF376B400136D40 /* A_4 10.wav */; };
+		560CEA142CF376B500136D40 /* S_3 10.wav in Resources */ = {isa = PBXBuildFile; fileRef = 560CE9E32CF376B400136D40 /* S_3 10.wav */; };
+		560CEA152CF376B500136D40 /* S_12 10.wav in Resources */ = {isa = PBXBuildFile; fileRef = 560CE9EC2CF376B400136D40 /* S_12 10.wav */; };
+		560CEA162CF376B500136D40 /* S_8 10.wav in Resources */ = {isa = PBXBuildFile; fileRef = 560CE9E82CF376B400136D40 /* S_8 10.wav */; };
+		560CEA172CF376B500136D40 /* S_14 10.wav in Resources */ = {isa = PBXBuildFile; fileRef = 560CE9EE2CF376B400136D40 /* S_14 10.wav */; };
+		560CEA182CF376B500136D40 /* S_10 10.wav in Resources */ = {isa = PBXBuildFile; fileRef = 560CE9EA2CF376B400136D40 /* S_10 10.wav */; };
+		560CEA192CF376B500136D40 /* A_9 10.wav in Resources */ = {isa = PBXBuildFile; fileRef = 560CE9DA2CF376B400136D40 /* A_9 10.wav */; };
+		560CEA1A2CF376B500136D40 /* S_6 10.wav in Resources */ = {isa = PBXBuildFile; fileRef = 560CE9E62CF376B400136D40 /* S_6 10.wav */; };
+		560CEA1B2CF376B500136D40 /* S_7 10.wav in Resources */ = {isa = PBXBuildFile; fileRef = 560CE9E72CF376B400136D40 /* S_7 10.wav */; };
+		560CEA1C2CF376B500136D40 /* A_6 10.wav in Resources */ = {isa = PBXBuildFile; fileRef = 560CE9D72CF376B400136D40 /* A_6 10.wav */; };
+		560CEA1D2CF376B500136D40 /* A_1 10.wav in Resources */ = {isa = PBXBuildFile; fileRef = 560CE9D22CF376B400136D40 /* A_1 10.wav */; };
+		560CEA1E2CF376B500136D40 /* A_13 10.wav in Resources */ = {isa = PBXBuildFile; fileRef = 560CE9DE2CF376B400136D40 /* A_13 10.wav */; };
+		560CEA1F2CF376B500136D40 /* A_14 10.wav in Resources */ = {isa = PBXBuildFile; fileRef = 560CE9DF2CF376B400136D40 /* A_14 10.wav */; };
+		560CEA202CF376B500136D40 /* S_5 10.wav in Resources */ = {isa = PBXBuildFile; fileRef = 560CE9E52CF376B400136D40 /* S_5 10.wav */; };
+		560CEA212CF376B500136D40 /* S_13 10.wav in Resources */ = {isa = PBXBuildFile; fileRef = 560CE9ED2CF376B400136D40 /* S_13 10.wav */; };
+		560CEA222CF376B500136D40 /* MainTrack 10.wav in Resources */ = {isa = PBXBuildFile; fileRef = 560CE9E02CF376B400136D40 /* MainTrack 10.wav */; };
+		560CEA232CF376B500136D40 /* S_2 10.wav in Resources */ = {isa = PBXBuildFile; fileRef = 560CE9E22CF376B400136D40 /* S_2 10.wav */; };
+		560CEA242CF376B500136D40 /* S_4 10.wav in Resources */ = {isa = PBXBuildFile; fileRef = 560CE9E42CF376B400136D40 /* S_4 10.wav */; };
+		560CEA252CF376B500136D40 /* A_8 10.wav in Resources */ = {isa = PBXBuildFile; fileRef = 560CE9D92CF376B400136D40 /* A_8 10.wav */; };
+		560CEA262CF376B500136D40 /* A_10 10.wav in Resources */ = {isa = PBXBuildFile; fileRef = 560CE9DB2CF376B400136D40 /* A_10 10.wav */; };
+		560CEA272CF376B500136D40 /* A_12 10.wav in Resources */ = {isa = PBXBuildFile; fileRef = 560CE9DD2CF376B400136D40 /* A_12 10.wav */; };
+		560CEA282CF376B500136D40 /* S_9 10.wav in Resources */ = {isa = PBXBuildFile; fileRef = 560CE9E92CF376B400136D40 /* S_9 10.wav */; };
+		565195862CE886C80060FA4A /* HealthDataExporter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 565195852CE886AB0060FA4A /* HealthDataExporter.swift */; };
+		56538C312CED0F75002EE1B9 /* CoreBluetooth.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 56538C2A2CED0F4D002EE1B9 /* CoreBluetooth.framework */; };
+		56538C342CED0F78002EE1B9 /* WatchConnectivity.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 56A8F1992C959D32003E20A1 /* WatchConnectivity.framework */; };
+		5663F98F2D03695C009387D2 /* WatchConnectionManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5663F98E2D036948009387D2 /* WatchConnectionManager.swift */; };
+		56755D4D2CECDFE30010A8C8 /* InterfaceController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56755D4C2CECDFD10010A8C8 /* InterfaceController.swift */; };
+		567E3D132CAC8FBF00F35AE6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 567E3D122CAC8F7900F35AE6 /* AppDelegate.swift */; };
+		567E3D172CAC8FE600F35AE6 /* ExtensionDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 567E3D162CAC8FE600F35AE6 /* ExtensionDelegate.swift */; };
+		568569F62CF3B30F00D2B765 /* S_9 15.wav in Resources */ = {isa = PBXBuildFile; fileRef = 568569ED2CF3B30E00D2B765 /* S_9 15.wav */; };
+		568569F72CF3B30F00D2B765 /* A_10 15.wav in Resources */ = {isa = PBXBuildFile; fileRef = 568569DC2CF3B30E00D2B765 /* A_10 15.wav */; };
+		568569F82CF3B30F00D2B765 /* A_11 15.wav in Resources */ = {isa = PBXBuildFile; fileRef = 568569DD2CF3B30E00D2B765 /* A_11 15.wav */; };
+		568569F92CF3B30F00D2B765 /* A_4 15.wav in Resources */ = {isa = PBXBuildFile; fileRef = 568569D62CF3B30E00D2B765 /* A_4 15.wav */; };
+		568569FA2CF3B30F00D2B765 /* S_5 15.wav in Resources */ = {isa = PBXBuildFile; fileRef = 568569E92CF3B30E00D2B765 /* S_5 15.wav */; };
+		568569FB2CF3B30F00D2B765 /* S_3 15.wav in Resources */ = {isa = PBXBuildFile; fileRef = 568569E72CF3B30E00D2B765 /* S_3 15.wav */; };
+		568569FC2CF3B30F00D2B765 /* S_16 15.wav in Resources */ = {isa = PBXBuildFile; fileRef = 568569F42CF3B30E00D2B765 /* S_16 15.wav */; };
+		568569FD2CF3B30F00D2B765 /* A_12 15.wav in Resources */ = {isa = PBXBuildFile; fileRef = 568569DE2CF3B30E00D2B765 /* A_12 15.wav */; };
+		568569FE2CF3B30F00D2B765 /* S_6 15.wav in Resources */ = {isa = PBXBuildFile; fileRef = 568569EA2CF3B30E00D2B765 /* S_6 15.wav */; };
+		568569FF2CF3B30F00D2B765 /* S_4 15.wav in Resources */ = {isa = PBXBuildFile; fileRef = 568569E82CF3B30E00D2B765 /* S_4 15.wav */; };
+		56856A002CF3B30F00D2B765 /* S_15 15.wav in Resources */ = {isa = PBXBuildFile; fileRef = 568569F32CF3B30E00D2B765 /* S_15 15.wav */; };
+		56856A012CF3B30F00D2B765 /* S_2 15.wav in Resources */ = {isa = PBXBuildFile; fileRef = 568569E62CF3B30E00D2B765 /* S_2 15.wav */; };
+		56856A022CF3B30F00D2B765 /* A_8 15.wav in Resources */ = {isa = PBXBuildFile; fileRef = 568569DA2CF3B30E00D2B765 /* A_8 15.wav */; };
+		56856A032CF3B30F00D2B765 /* A_17 15.wav in Resources */ = {isa = PBXBuildFile; fileRef = 568569E32CF3B30E00D2B765 /* A_17 15.wav */; };
+		56856A042CF3B30F00D2B765 /* A_16 15.wav in Resources */ = {isa = PBXBuildFile; fileRef = 568569E22CF3B30E00D2B765 /* A_16 15.wav */; };
+		56856A052CF3B30F00D2B765 /* MainTrack 15.wav in Resources */ = {isa = PBXBuildFile; fileRef = 568569E42CF3B30E00D2B765 /* MainTrack 15.wav */; };
+		56856A062CF3B30F00D2B765 /* S_10 15.wav in Resources */ = {isa = PBXBuildFile; fileRef = 568569EE2CF3B30E00D2B765 /* S_10 15.wav */; };
+		56856A072CF3B30F00D2B765 /* S_11 15.wav in Resources */ = {isa = PBXBuildFile; fileRef = 568569EF2CF3B30E00D2B765 /* S_11 15.wav */; };
+		56856A082CF3B30F00D2B765 /* A_13 15.wav in Resources */ = {isa = PBXBuildFile; fileRef = 568569DF2CF3B30E00D2B765 /* A_13 15.wav */; };
+		56856A092CF3B30F00D2B765 /* S_13 15.wav in Resources */ = {isa = PBXBuildFile; fileRef = 568569F12CF3B30E00D2B765 /* S_13 15.wav */; };
+		56856A0A2CF3B30F00D2B765 /* A_2 15.wav in Resources */ = {isa = PBXBuildFile; fileRef = 568569D42CF3B30E00D2B765 /* A_2 15.wav */; };
+		56856A0B2CF3B30F00D2B765 /* A_7 15.wav in Resources */ = {isa = PBXBuildFile; fileRef = 568569D92CF3B30E00D2B765 /* A_7 15.wav */; };
+		56856A0C2CF3B30F00D2B765 /* A_1 15.wav in Resources */ = {isa = PBXBuildFile; fileRef = 568569D32CF3B30E00D2B765 /* A_1 15.wav */; };
+		56856A0D2CF3B30F00D2B765 /* S_7 15.wav in Resources */ = {isa = PBXBuildFile; fileRef = 568569EB2CF3B30E00D2B765 /* S_7 15.wav */; };
+		56856A0E2CF3B30F00D2B765 /* A_9 15.wav in Resources */ = {isa = PBXBuildFile; fileRef = 568569DB2CF3B30E00D2B765 /* A_9 15.wav */; };
+		56856A0F2CF3B30F00D2B765 /* A_15 15.wav in Resources */ = {isa = PBXBuildFile; fileRef = 568569E12CF3B30E00D2B765 /* A_15 15.wav */; };
+		56856A102CF3B30F00D2B765 /* S_1 15.wav in Resources */ = {isa = PBXBuildFile; fileRef = 568569E52CF3B30E00D2B765 /* S_1 15.wav */; };
+		56856A112CF3B30F00D2B765 /* S_8 15.wav in Resources */ = {isa = PBXBuildFile; fileRef = 568569EC2CF3B30E00D2B765 /* S_8 15.wav */; };
+		56856A122CF3B30F00D2B765 /* A_6 15.wav in Resources */ = {isa = PBXBuildFile; fileRef = 568569D82CF3B30E00D2B765 /* A_6 15.wav */; };
+		56856A132CF3B30F00D2B765 /* A_3 15.wav in Resources */ = {isa = PBXBuildFile; fileRef = 568569D52CF3B30E00D2B765 /* A_3 15.wav */; };
+		56856A142CF3B30F00D2B765 /* S_12 15.wav in Resources */ = {isa = PBXBuildFile; fileRef = 568569F02CF3B30E00D2B765 /* S_12 15.wav */; };
+		56856A152CF3B30F00D2B765 /* S_14 15.wav in Resources */ = {isa = PBXBuildFile; fileRef = 568569F22CF3B30E00D2B765 /* S_14 15.wav */; };
+		56856A162CF3B30F00D2B765 /* A_14 15.wav in Resources */ = {isa = PBXBuildFile; fileRef = 568569E02CF3B30E00D2B765 /* A_14 15.wav */; };
+		56856A172CF3B30F00D2B765 /* A_5 15.wav in Resources */ = {isa = PBXBuildFile; fileRef = 568569D72CF3B30E00D2B765 /* A_5 15.wav */; };
+		56856A182CF3B30F00D2B765 /* S_17 15.wav in Resources */ = {isa = PBXBuildFile; fileRef = 568569F52CF3B30E00D2B765 /* S_17 15.wav */; };
+		56856A192CF3B30F00D2B765 /* S_9 15.wav in Resources */ = {isa = PBXBuildFile; fileRef = 568569ED2CF3B30E00D2B765 /* S_9 15.wav */; };
+		56856A1A2CF3B30F00D2B765 /* A_10 15.wav in Resources */ = {isa = PBXBuildFile; fileRef = 568569DC2CF3B30E00D2B765 /* A_10 15.wav */; };
+		56856A1B2CF3B30F00D2B765 /* A_11 15.wav in Resources */ = {isa = PBXBuildFile; fileRef = 568569DD2CF3B30E00D2B765 /* A_11 15.wav */; };
+		56856A1C2CF3B30F00D2B765 /* A_4 15.wav in Resources */ = {isa = PBXBuildFile; fileRef = 568569D62CF3B30E00D2B765 /* A_4 15.wav */; };
+		56856A1D2CF3B30F00D2B765 /* S_5 15.wav in Resources */ = {isa = PBXBuildFile; fileRef = 568569E92CF3B30E00D2B765 /* S_5 15.wav */; };
+		56856A1E2CF3B30F00D2B765 /* S_3 15.wav in Resources */ = {isa = PBXBuildFile; fileRef = 568569E72CF3B30E00D2B765 /* S_3 15.wav */; };
+		56856A1F2CF3B30F00D2B765 /* S_16 15.wav in Resources */ = {isa = PBXBuildFile; fileRef = 568569F42CF3B30E00D2B765 /* S_16 15.wav */; };
+		56856A202CF3B30F00D2B765 /* A_12 15.wav in Resources */ = {isa = PBXBuildFile; fileRef = 568569DE2CF3B30E00D2B765 /* A_12 15.wav */; };
+		56856A212CF3B30F00D2B765 /* S_6 15.wav in Resources */ = {isa = PBXBuildFile; fileRef = 568569EA2CF3B30E00D2B765 /* S_6 15.wav */; };
+		56856A222CF3B30F00D2B765 /* S_4 15.wav in Resources */ = {isa = PBXBuildFile; fileRef = 568569E82CF3B30E00D2B765 /* S_4 15.wav */; };
+		56856A232CF3B30F00D2B765 /* S_15 15.wav in Resources */ = {isa = PBXBuildFile; fileRef = 568569F32CF3B30E00D2B765 /* S_15 15.wav */; };
+		56856A242CF3B30F00D2B765 /* S_2 15.wav in Resources */ = {isa = PBXBuildFile; fileRef = 568569E62CF3B30E00D2B765 /* S_2 15.wav */; };
+		56856A252CF3B30F00D2B765 /* A_8 15.wav in Resources */ = {isa = PBXBuildFile; fileRef = 568569DA2CF3B30E00D2B765 /* A_8 15.wav */; };
+		56856A262CF3B30F00D2B765 /* A_17 15.wav in Resources */ = {isa = PBXBuildFile; fileRef = 568569E32CF3B30E00D2B765 /* A_17 15.wav */; };
+		56856A272CF3B30F00D2B765 /* A_16 15.wav in Resources */ = {isa = PBXBuildFile; fileRef = 568569E22CF3B30E00D2B765 /* A_16 15.wav */; };
+		56856A282CF3B30F00D2B765 /* MainTrack 15.wav in Resources */ = {isa = PBXBuildFile; fileRef = 568569E42CF3B30E00D2B765 /* MainTrack 15.wav */; };
+		56856A292CF3B30F00D2B765 /* S_10 15.wav in Resources */ = {isa = PBXBuildFile; fileRef = 568569EE2CF3B30E00D2B765 /* S_10 15.wav */; };
+		56856A2A2CF3B30F00D2B765 /* S_11 15.wav in Resources */ = {isa = PBXBuildFile; fileRef = 568569EF2CF3B30E00D2B765 /* S_11 15.wav */; };
+		56856A2B2CF3B30F00D2B765 /* A_13 15.wav in Resources */ = {isa = PBXBuildFile; fileRef = 568569DF2CF3B30E00D2B765 /* A_13 15.wav */; };
+		56856A2C2CF3B30F00D2B765 /* S_13 15.wav in Resources */ = {isa = PBXBuildFile; fileRef = 568569F12CF3B30E00D2B765 /* S_13 15.wav */; };
+		56856A2D2CF3B30F00D2B765 /* A_2 15.wav in Resources */ = {isa = PBXBuildFile; fileRef = 568569D42CF3B30E00D2B765 /* A_2 15.wav */; };
+		56856A2E2CF3B30F00D2B765 /* A_7 15.wav in Resources */ = {isa = PBXBuildFile; fileRef = 568569D92CF3B30E00D2B765 /* A_7 15.wav */; };
+		56856A2F2CF3B30F00D2B765 /* A_1 15.wav in Resources */ = {isa = PBXBuildFile; fileRef = 568569D32CF3B30E00D2B765 /* A_1 15.wav */; };
+		56856A302CF3B30F00D2B765 /* S_7 15.wav in Resources */ = {isa = PBXBuildFile; fileRef = 568569EB2CF3B30E00D2B765 /* S_7 15.wav */; };
+		56856A312CF3B30F00D2B765 /* A_9 15.wav in Resources */ = {isa = PBXBuildFile; fileRef = 568569DB2CF3B30E00D2B765 /* A_9 15.wav */; };
+		56856A322CF3B30F00D2B765 /* A_15 15.wav in Resources */ = {isa = PBXBuildFile; fileRef = 568569E12CF3B30E00D2B765 /* A_15 15.wav */; };
+		56856A332CF3B30F00D2B765 /* S_1 15.wav in Resources */ = {isa = PBXBuildFile; fileRef = 568569E52CF3B30E00D2B765 /* S_1 15.wav */; };
+		56856A342CF3B30F00D2B765 /* S_8 15.wav in Resources */ = {isa = PBXBuildFile; fileRef = 568569EC2CF3B30E00D2B765 /* S_8 15.wav */; };
+		56856A352CF3B30F00D2B765 /* A_6 15.wav in Resources */ = {isa = PBXBuildFile; fileRef = 568569D82CF3B30E00D2B765 /* A_6 15.wav */; };
+		56856A362CF3B30F00D2B765 /* A_3 15.wav in Resources */ = {isa = PBXBuildFile; fileRef = 568569D52CF3B30E00D2B765 /* A_3 15.wav */; };
+		56856A372CF3B30F00D2B765 /* S_12 15.wav in Resources */ = {isa = PBXBuildFile; fileRef = 568569F02CF3B30E00D2B765 /* S_12 15.wav */; };
+		56856A382CF3B30F00D2B765 /* S_14 15.wav in Resources */ = {isa = PBXBuildFile; fileRef = 568569F22CF3B30E00D2B765 /* S_14 15.wav */; };
+		56856A392CF3B30F00D2B765 /* A_14 15.wav in Resources */ = {isa = PBXBuildFile; fileRef = 568569E02CF3B30E00D2B765 /* A_14 15.wav */; };
+		56856A3A2CF3B30F00D2B765 /* A_5 15.wav in Resources */ = {isa = PBXBuildFile; fileRef = 568569D72CF3B30E00D2B765 /* A_5 15.wav */; };
+		56856A3B2CF3B30F00D2B765 /* S_17 15.wav in Resources */ = {isa = PBXBuildFile; fileRef = 568569F52CF3B30E00D2B765 /* S_17 15.wav */; };
+		56856A572CF3C6B900D2B765 /* A_4.wav in Resources */ = {isa = PBXBuildFile; fileRef = 56856A3F2CF3C6B800D2B765 /* A_4.wav */; };
+		56856A582CF3C6B900D2B765 /* MainTrack.wav in Resources */ = {isa = PBXBuildFile; fileRef = 56856A492CF3C6B800D2B765 /* MainTrack.wav */; };
+		56856A592CF3C6B900D2B765 /* A_1.wav in Resources */ = {isa = PBXBuildFile; fileRef = 56856A3C2CF3C6B800D2B765 /* A_1.wav */; };
+		56856A5A2CF3C6B900D2B765 /* A_5.wav in Resources */ = {isa = PBXBuildFile; fileRef = 56856A402CF3C6B800D2B765 /* A_5.wav */; };
+		56856A5B2CF3C6B900D2B765 /* S_7.wav in Resources */ = {isa = PBXBuildFile; fileRef = 56856A502CF3C6B800D2B765 /* S_7.wav */; };
+		56856A5C2CF3C6B900D2B765 /* S_12.wav in Resources */ = {isa = PBXBuildFile; fileRef = 56856A552CF3C6B800D2B765 /* S_12.wav */; };
+		56856A5D2CF3C6B900D2B765 /* A_13.wav in Resources */ = {isa = PBXBuildFile; fileRef = 56856A482CF3C6B800D2B765 /* A_13.wav */; };
+		56856A5E2CF3C6B900D2B765 /* S_3.wav in Resources */ = {isa = PBXBuildFile; fileRef = 56856A4C2CF3C6B800D2B765 /* S_3.wav */; };
+		56856A5F2CF3C6B900D2B765 /* A_10.wav in Resources */ = {isa = PBXBuildFile; fileRef = 56856A452CF3C6B800D2B765 /* A_10.wav */; };
+		56856A602CF3C6B900D2B765 /* A_6.wav in Resources */ = {isa = PBXBuildFile; fileRef = 56856A412CF3C6B800D2B765 /* A_6.wav */; };
+		56856A612CF3C6B900D2B765 /* S_13.wav in Resources */ = {isa = PBXBuildFile; fileRef = 56856A562CF3C6B800D2B765 /* S_13.wav */; };
+		56856A622CF3C6B900D2B765 /* A_9.wav in Resources */ = {isa = PBXBuildFile; fileRef = 56856A442CF3C6B800D2B765 /* A_9.wav */; };
+		56856A632CF3C6B900D2B765 /* S_1.wav in Resources */ = {isa = PBXBuildFile; fileRef = 56856A4A2CF3C6B800D2B765 /* S_1.wav */; };
+		56856A642CF3C6B900D2B765 /* S_4.wav in Resources */ = {isa = PBXBuildFile; fileRef = 56856A4D2CF3C6B800D2B765 /* S_4.wav */; };
+		56856A652CF3C6B900D2B765 /* S_5.wav in Resources */ = {isa = PBXBuildFile; fileRef = 56856A4E2CF3C6B800D2B765 /* S_5.wav */; };
+		56856A662CF3C6B900D2B765 /* A_2.wav in Resources */ = {isa = PBXBuildFile; fileRef = 56856A3D2CF3C6B800D2B765 /* A_2.wav */; };
+		56856A672CF3C6B900D2B765 /* A_8.wav in Resources */ = {isa = PBXBuildFile; fileRef = 56856A432CF3C6B800D2B765 /* A_8.wav */; };
+		56856A682CF3C6B900D2B765 /* A_12.wav in Resources */ = {isa = PBXBuildFile; fileRef = 56856A472CF3C6B800D2B765 /* A_12.wav */; };
+		56856A692CF3C6B900D2B765 /* S_6.wav in Resources */ = {isa = PBXBuildFile; fileRef = 56856A4F2CF3C6B800D2B765 /* S_6.wav */; };
+		56856A6A2CF3C6B900D2B765 /* S_8.wav in Resources */ = {isa = PBXBuildFile; fileRef = 56856A512CF3C6B800D2B765 /* S_8.wav */; };
+		56856A6B2CF3C6B900D2B765 /* S_11.wav in Resources */ = {isa = PBXBuildFile; fileRef = 56856A542CF3C6B800D2B765 /* S_11.wav */; };
+		56856A6C2CF3C6B900D2B765 /* A_3.wav in Resources */ = {isa = PBXBuildFile; fileRef = 56856A3E2CF3C6B800D2B765 /* A_3.wav */; };
+		56856A6D2CF3C6B900D2B765 /* S_2.wav in Resources */ = {isa = PBXBuildFile; fileRef = 56856A4B2CF3C6B800D2B765 /* S_2.wav */; };
+		56856A6E2CF3C6B900D2B765 /* S_9.wav in Resources */ = {isa = PBXBuildFile; fileRef = 56856A522CF3C6B800D2B765 /* S_9.wav */; };
+		56856A6F2CF3C6B900D2B765 /* A_7.wav in Resources */ = {isa = PBXBuildFile; fileRef = 56856A422CF3C6B800D2B765 /* A_7.wav */; };
+		56856A702CF3C6B900D2B765 /* A_11.wav in Resources */ = {isa = PBXBuildFile; fileRef = 56856A462CF3C6B800D2B765 /* A_11.wav */; };
+		56856A712CF3C6B900D2B765 /* S_10.wav in Resources */ = {isa = PBXBuildFile; fileRef = 56856A532CF3C6B800D2B765 /* S_10.wav */; };
+		56856A722CF3C6B900D2B765 /* A_4.wav in Resources */ = {isa = PBXBuildFile; fileRef = 56856A3F2CF3C6B800D2B765 /* A_4.wav */; };
+		56856A732CF3C6B900D2B765 /* MainTrack.wav in Resources */ = {isa = PBXBuildFile; fileRef = 56856A492CF3C6B800D2B765 /* MainTrack.wav */; };
+		56856A742CF3C6B900D2B765 /* A_1.wav in Resources */ = {isa = PBXBuildFile; fileRef = 56856A3C2CF3C6B800D2B765 /* A_1.wav */; };
+		56856A752CF3C6B900D2B765 /* A_5.wav in Resources */ = {isa = PBXBuildFile; fileRef = 56856A402CF3C6B800D2B765 /* A_5.wav */; };
+		56856A762CF3C6B900D2B765 /* S_7.wav in Resources */ = {isa = PBXBuildFile; fileRef = 56856A502CF3C6B800D2B765 /* S_7.wav */; };
+		56856A772CF3C6B900D2B765 /* S_12.wav in Resources */ = {isa = PBXBuildFile; fileRef = 56856A552CF3C6B800D2B765 /* S_12.wav */; };
+		56856A782CF3C6B900D2B765 /* A_13.wav in Resources */ = {isa = PBXBuildFile; fileRef = 56856A482CF3C6B800D2B765 /* A_13.wav */; };
+		56856A792CF3C6B900D2B765 /* S_3.wav in Resources */ = {isa = PBXBuildFile; fileRef = 56856A4C2CF3C6B800D2B765 /* S_3.wav */; };
+		56856A7A2CF3C6B900D2B765 /* A_10.wav in Resources */ = {isa = PBXBuildFile; fileRef = 56856A452CF3C6B800D2B765 /* A_10.wav */; };
+		56856A7B2CF3C6B900D2B765 /* A_6.wav in Resources */ = {isa = PBXBuildFile; fileRef = 56856A412CF3C6B800D2B765 /* A_6.wav */; };
+		56856A7C2CF3C6B900D2B765 /* S_13.wav in Resources */ = {isa = PBXBuildFile; fileRef = 56856A562CF3C6B800D2B765 /* S_13.wav */; };
+		56856A7D2CF3C6B900D2B765 /* A_9.wav in Resources */ = {isa = PBXBuildFile; fileRef = 56856A442CF3C6B800D2B765 /* A_9.wav */; };
+		56856A7E2CF3C6B900D2B765 /* S_1.wav in Resources */ = {isa = PBXBuildFile; fileRef = 56856A4A2CF3C6B800D2B765 /* S_1.wav */; };
+		56856A7F2CF3C6B900D2B765 /* S_4.wav in Resources */ = {isa = PBXBuildFile; fileRef = 56856A4D2CF3C6B800D2B765 /* S_4.wav */; };
+		56856A802CF3C6B900D2B765 /* S_5.wav in Resources */ = {isa = PBXBuildFile; fileRef = 56856A4E2CF3C6B800D2B765 /* S_5.wav */; };
+		56856A812CF3C6B900D2B765 /* A_2.wav in Resources */ = {isa = PBXBuildFile; fileRef = 56856A3D2CF3C6B800D2B765 /* A_2.wav */; };
+		56856A822CF3C6B900D2B765 /* A_8.wav in Resources */ = {isa = PBXBuildFile; fileRef = 56856A432CF3C6B800D2B765 /* A_8.wav */; };
+		56856A832CF3C6B900D2B765 /* A_12.wav in Resources */ = {isa = PBXBuildFile; fileRef = 56856A472CF3C6B800D2B765 /* A_12.wav */; };
+		56856A842CF3C6B900D2B765 /* S_6.wav in Resources */ = {isa = PBXBuildFile; fileRef = 56856A4F2CF3C6B800D2B765 /* S_6.wav */; };
+		56856A852CF3C6B900D2B765 /* S_8.wav in Resources */ = {isa = PBXBuildFile; fileRef = 56856A512CF3C6B800D2B765 /* S_8.wav */; };
+		56856A862CF3C6B900D2B765 /* S_11.wav in Resources */ = {isa = PBXBuildFile; fileRef = 56856A542CF3C6B800D2B765 /* S_11.wav */; };
+		56856A872CF3C6B900D2B765 /* A_3.wav in Resources */ = {isa = PBXBuildFile; fileRef = 56856A3E2CF3C6B800D2B765 /* A_3.wav */; };
+		56856A882CF3C6B900D2B765 /* S_2.wav in Resources */ = {isa = PBXBuildFile; fileRef = 56856A4B2CF3C6B800D2B765 /* S_2.wav */; };
+		56856A892CF3C6B900D2B765 /* S_9.wav in Resources */ = {isa = PBXBuildFile; fileRef = 56856A522CF3C6B800D2B765 /* S_9.wav */; };
+		56856A8A2CF3C6B900D2B765 /* A_7.wav in Resources */ = {isa = PBXBuildFile; fileRef = 56856A422CF3C6B800D2B765 /* A_7.wav */; };
+		56856A8B2CF3C6B900D2B765 /* A_11.wav in Resources */ = {isa = PBXBuildFile; fileRef = 56856A462CF3C6B800D2B765 /* A_11.wav */; };
+		56856A8C2CF3C6B900D2B765 /* S_10.wav in Resources */ = {isa = PBXBuildFile; fileRef = 56856A532CF3C6B800D2B765 /* S_10.wav */; };
 		56A8F1672C957735003E20A1 /* HeartRateMonitorApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56A8F1662C957735003E20A1 /* HeartRateMonitorApp.swift */; };
 		56A8F1692C957735003E20A1 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56A8F1682C957735003E20A1 /* ContentView.swift */; };
 		56A8F16B2C957737003E20A1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 56A8F16A2C957737003E20A1 /* Assets.xcassets */; };
 		56A8F16E2C957737003E20A1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 56A8F16D2C957737003E20A1 /* Preview Assets.xcassets */; };
 		56A8F1702C957737003E20A1 /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56A8F16F2C957737003E20A1 /* Persistence.swift */; };
 		56A8F1732C957737003E20A1 /* HeartRateMonitor.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 56A8F1712C957737003E20A1 /* HeartRateMonitor.xcdatamodeld */; };
+		56A8F1802C9577E8003E20A1 /* HeartRateMonitorWatchApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56A8F17F2C9577E8003E20A1 /* HeartRateMonitorWatchApp.swift */; };
+		56A8F1822C9577E8003E20A1 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56A8F1812C9577E8003E20A1 /* ContentView.swift */; };
+		56A8F1842C9577EA003E20A1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 56A8F1832C9577EA003E20A1 /* Assets.xcassets */; };
+		56A8F1872C9577EA003E20A1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 56A8F1862C9577EA003E20A1 /* Preview Assets.xcassets */; };
+		56A8F18A2C9577EA003E20A1 /* HeartRateMonitorWatch Watch App.app in Embed Watch Content */ = {isa = PBXBuildFile; fileRef = 56A8F17D2C9577E8003E20A1 /* HeartRateMonitorWatch Watch App.app */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		56A8F19C2C959F3F003E20A1 /* HealthKitManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56A8F19B2C959F3F003E20A1 /* HealthKitManager.swift */; };
+		56A8F1A02C95A0A8003E20A1 /* WatchConnectivity.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 56A8F19F2C95A0A8003E20A1 /* WatchConnectivity.framework */; };
 /* End PBXBuildFile section */
 
+/* Begin PBXContainerItemProxy section */
+		56A8F1882C9577EA003E20A1 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 56A8F15B2C957735003E20A1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 56A8F17C2C9577E8003E20A1;
+			remoteInfo = "HeartRateMonitorWatch Watch App";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		56A8F18E2C9577EA003E20A1 /* Embed Watch Content */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "$(CONTENTS_FOLDER_PATH)/Watch";
+			dstSubfolderSpec = 16;
+			files = (
+				56A8F18A2C9577EA003E20A1 /* HeartRateMonitorWatch Watch App.app in Embed Watch Content */,
+			);
+			name = "Embed Watch Content";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
 /* Begin PBXFileReference section */
+		560CE9D22CF376B400136D40 /* A_1 10.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "A_1 10.wav"; sourceTree = "<group>"; };
+		560CE9D32CF376B400136D40 /* A_2 10.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "A_2 10.wav"; sourceTree = "<group>"; };
+		560CE9D42CF376B400136D40 /* A_3 10.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "A_3 10.wav"; sourceTree = "<group>"; };
+		560CE9D52CF376B400136D40 /* A_4 10.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "A_4 10.wav"; sourceTree = "<group>"; };
+		560CE9D62CF376B400136D40 /* A_5 10.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "A_5 10.wav"; sourceTree = "<group>"; };
+		560CE9D72CF376B400136D40 /* A_6 10.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "A_6 10.wav"; sourceTree = "<group>"; };
+		560CE9D82CF376B400136D40 /* A_7 10.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "A_7 10.wav"; sourceTree = "<group>"; };
+		560CE9D92CF376B400136D40 /* A_8 10.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "A_8 10.wav"; sourceTree = "<group>"; };
+		560CE9DA2CF376B400136D40 /* A_9 10.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "A_9 10.wav"; sourceTree = "<group>"; };
+		560CE9DB2CF376B400136D40 /* A_10 10.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "A_10 10.wav"; sourceTree = "<group>"; };
+		560CE9DC2CF376B400136D40 /* A_11 10.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "A_11 10.wav"; sourceTree = "<group>"; };
+		560CE9DD2CF376B400136D40 /* A_12 10.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "A_12 10.wav"; sourceTree = "<group>"; };
+		560CE9DE2CF376B400136D40 /* A_13 10.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "A_13 10.wav"; sourceTree = "<group>"; };
+		560CE9DF2CF376B400136D40 /* A_14 10.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "A_14 10.wav"; sourceTree = "<group>"; };
+		560CE9E02CF376B400136D40 /* MainTrack 10.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "MainTrack 10.wav"; sourceTree = "<group>"; };
+		560CE9E12CF376B400136D40 /* S_1 10.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "S_1 10.wav"; sourceTree = "<group>"; };
+		560CE9E22CF376B400136D40 /* S_2 10.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "S_2 10.wav"; sourceTree = "<group>"; };
+		560CE9E32CF376B400136D40 /* S_3 10.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "S_3 10.wav"; sourceTree = "<group>"; };
+		560CE9E42CF376B400136D40 /* S_4 10.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "S_4 10.wav"; sourceTree = "<group>"; };
+		560CE9E52CF376B400136D40 /* S_5 10.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "S_5 10.wav"; sourceTree = "<group>"; };
+		560CE9E62CF376B400136D40 /* S_6 10.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "S_6 10.wav"; sourceTree = "<group>"; };
+		560CE9E72CF376B400136D40 /* S_7 10.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "S_7 10.wav"; sourceTree = "<group>"; };
+		560CE9E82CF376B400136D40 /* S_8 10.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "S_8 10.wav"; sourceTree = "<group>"; };
+		560CE9E92CF376B400136D40 /* S_9 10.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "S_9 10.wav"; sourceTree = "<group>"; };
+		560CE9EA2CF376B400136D40 /* S_10 10.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "S_10 10.wav"; sourceTree = "<group>"; };
+		560CE9EB2CF376B400136D40 /* S_11 10.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "S_11 10.wav"; sourceTree = "<group>"; };
+		560CE9EC2CF376B400136D40 /* S_12 10.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "S_12 10.wav"; sourceTree = "<group>"; };
+		560CE9ED2CF376B400136D40 /* S_13 10.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "S_13 10.wav"; sourceTree = "<group>"; };
+		560CE9EE2CF376B400136D40 /* S_14 10.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "S_14 10.wav"; sourceTree = "<group>"; };
+		565195852CE886AB0060FA4A /* HealthDataExporter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HealthDataExporter.swift; sourceTree = "<group>"; };
+		56538C2A2CED0F4D002EE1B9 /* CoreBluetooth.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreBluetooth.framework; path = Platforms/WatchOS.platform/Developer/SDKs/WatchOS11.1.sdk/System/Library/Frameworks/CoreBluetooth.framework; sourceTree = DEVELOPER_DIR; };
+		56629C1E2CDFC7040036E341 /* HeartRateMonitorWatch Watch AppDebug.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "HeartRateMonitorWatch Watch AppDebug.entitlements"; sourceTree = "<group>"; };
+		5663F98E2D036948009387D2 /* WatchConnectionManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WatchConnectionManager.swift; sourceTree = "<group>"; };
+		56755D4C2CECDFD10010A8C8 /* InterfaceController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InterfaceController.swift; sourceTree = "<group>"; };
+		567E3D122CAC8F7900F35AE6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		567E3D162CAC8FE600F35AE6 /* ExtensionDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtensionDelegate.swift; sourceTree = "<group>"; };
+		568569D32CF3B30E00D2B765 /* A_1 15.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "A_1 15.wav"; sourceTree = "<group>"; };
+		568569D42CF3B30E00D2B765 /* A_2 15.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "A_2 15.wav"; sourceTree = "<group>"; };
+		568569D52CF3B30E00D2B765 /* A_3 15.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "A_3 15.wav"; sourceTree = "<group>"; };
+		568569D62CF3B30E00D2B765 /* A_4 15.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "A_4 15.wav"; sourceTree = "<group>"; };
+		568569D72CF3B30E00D2B765 /* A_5 15.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "A_5 15.wav"; sourceTree = "<group>"; };
+		568569D82CF3B30E00D2B765 /* A_6 15.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "A_6 15.wav"; sourceTree = "<group>"; };
+		568569D92CF3B30E00D2B765 /* A_7 15.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "A_7 15.wav"; sourceTree = "<group>"; };
+		568569DA2CF3B30E00D2B765 /* A_8 15.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "A_8 15.wav"; sourceTree = "<group>"; };
+		568569DB2CF3B30E00D2B765 /* A_9 15.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "A_9 15.wav"; sourceTree = "<group>"; };
+		568569DC2CF3B30E00D2B765 /* A_10 15.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "A_10 15.wav"; sourceTree = "<group>"; };
+		568569DD2CF3B30E00D2B765 /* A_11 15.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "A_11 15.wav"; sourceTree = "<group>"; };
+		568569DE2CF3B30E00D2B765 /* A_12 15.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "A_12 15.wav"; sourceTree = "<group>"; };
+		568569DF2CF3B30E00D2B765 /* A_13 15.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "A_13 15.wav"; sourceTree = "<group>"; };
+		568569E02CF3B30E00D2B765 /* A_14 15.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "A_14 15.wav"; sourceTree = "<group>"; };
+		568569E12CF3B30E00D2B765 /* A_15 15.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "A_15 15.wav"; sourceTree = "<group>"; };
+		568569E22CF3B30E00D2B765 /* A_16 15.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "A_16 15.wav"; sourceTree = "<group>"; };
+		568569E32CF3B30E00D2B765 /* A_17 15.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "A_17 15.wav"; sourceTree = "<group>"; };
+		568569E42CF3B30E00D2B765 /* MainTrack 15.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "MainTrack 15.wav"; sourceTree = "<group>"; };
+		568569E52CF3B30E00D2B765 /* S_1 15.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "S_1 15.wav"; sourceTree = "<group>"; };
+		568569E62CF3B30E00D2B765 /* S_2 15.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "S_2 15.wav"; sourceTree = "<group>"; };
+		568569E72CF3B30E00D2B765 /* S_3 15.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "S_3 15.wav"; sourceTree = "<group>"; };
+		568569E82CF3B30E00D2B765 /* S_4 15.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "S_4 15.wav"; sourceTree = "<group>"; };
+		568569E92CF3B30E00D2B765 /* S_5 15.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "S_5 15.wav"; sourceTree = "<group>"; };
+		568569EA2CF3B30E00D2B765 /* S_6 15.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "S_6 15.wav"; sourceTree = "<group>"; };
+		568569EB2CF3B30E00D2B765 /* S_7 15.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "S_7 15.wav"; sourceTree = "<group>"; };
+		568569EC2CF3B30E00D2B765 /* S_8 15.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "S_8 15.wav"; sourceTree = "<group>"; };
+		568569ED2CF3B30E00D2B765 /* S_9 15.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "S_9 15.wav"; sourceTree = "<group>"; };
+		568569EE2CF3B30E00D2B765 /* S_10 15.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "S_10 15.wav"; sourceTree = "<group>"; };
+		568569EF2CF3B30E00D2B765 /* S_11 15.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "S_11 15.wav"; sourceTree = "<group>"; };
+		568569F02CF3B30E00D2B765 /* S_12 15.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "S_12 15.wav"; sourceTree = "<group>"; };
+		568569F12CF3B30E00D2B765 /* S_13 15.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "S_13 15.wav"; sourceTree = "<group>"; };
+		568569F22CF3B30E00D2B765 /* S_14 15.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "S_14 15.wav"; sourceTree = "<group>"; };
+		568569F32CF3B30E00D2B765 /* S_15 15.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "S_15 15.wav"; sourceTree = "<group>"; };
+		568569F42CF3B30E00D2B765 /* S_16 15.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "S_16 15.wav"; sourceTree = "<group>"; };
+		568569F52CF3B30E00D2B765 /* S_17 15.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "S_17 15.wav"; sourceTree = "<group>"; };
+		56856A3C2CF3C6B800D2B765 /* A_1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = A_1.wav; sourceTree = "<group>"; };
+		56856A3D2CF3C6B800D2B765 /* A_2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = A_2.wav; sourceTree = "<group>"; };
+		56856A3E2CF3C6B800D2B765 /* A_3.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = A_3.wav; sourceTree = "<group>"; };
+		56856A3F2CF3C6B800D2B765 /* A_4.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = A_4.wav; sourceTree = "<group>"; };
+		56856A402CF3C6B800D2B765 /* A_5.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = A_5.wav; sourceTree = "<group>"; };
+		56856A412CF3C6B800D2B765 /* A_6.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = A_6.wav; sourceTree = "<group>"; };
+		56856A422CF3C6B800D2B765 /* A_7.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = A_7.wav; sourceTree = "<group>"; };
+		56856A432CF3C6B800D2B765 /* A_8.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = A_8.wav; sourceTree = "<group>"; };
+		56856A442CF3C6B800D2B765 /* A_9.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = A_9.wav; sourceTree = "<group>"; };
+		56856A452CF3C6B800D2B765 /* A_10.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = A_10.wav; sourceTree = "<group>"; };
+		56856A462CF3C6B800D2B765 /* A_11.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = A_11.wav; sourceTree = "<group>"; };
+		56856A472CF3C6B800D2B765 /* A_12.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = A_12.wav; sourceTree = "<group>"; };
+		56856A482CF3C6B800D2B765 /* A_13.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = A_13.wav; sourceTree = "<group>"; };
+		56856A492CF3C6B800D2B765 /* MainTrack.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = MainTrack.wav; sourceTree = "<group>"; };
+		56856A4A2CF3C6B800D2B765 /* S_1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = S_1.wav; sourceTree = "<group>"; };
+		56856A4B2CF3C6B800D2B765 /* S_2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = S_2.wav; sourceTree = "<group>"; };
+		56856A4C2CF3C6B800D2B765 /* S_3.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = S_3.wav; sourceTree = "<group>"; };
+		56856A4D2CF3C6B800D2B765 /* S_4.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = S_4.wav; sourceTree = "<group>"; };
+		56856A4E2CF3C6B800D2B765 /* S_5.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = S_5.wav; sourceTree = "<group>"; };
+		56856A4F2CF3C6B800D2B765 /* S_6.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = S_6.wav; sourceTree = "<group>"; };
+		56856A502CF3C6B800D2B765 /* S_7.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = S_7.wav; sourceTree = "<group>"; };
+		56856A512CF3C6B800D2B765 /* S_8.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = S_8.wav; sourceTree = "<group>"; };
+		56856A522CF3C6B800D2B765 /* S_9.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = S_9.wav; sourceTree = "<group>"; };
+		56856A532CF3C6B800D2B765 /* S_10.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = S_10.wav; sourceTree = "<group>"; };
+		56856A542CF3C6B800D2B765 /* S_11.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = S_11.wav; sourceTree = "<group>"; };
+		56856A552CF3C6B800D2B765 /* S_12.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = S_12.wav; sourceTree = "<group>"; };
+		56856A562CF3C6B800D2B765 /* S_13.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = S_13.wav; sourceTree = "<group>"; };
 		56A8F1632C957735003E20A1 /* HeartRateMonitor.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HeartRateMonitor.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		56A8F1662C957735003E20A1 /* HeartRateMonitorApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeartRateMonitorApp.swift; sourceTree = "<group>"; };
 		56A8F1682C957735003E20A1 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -23,6 +341,19 @@
 		56A8F16D2C957737003E20A1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		56A8F16F2C957737003E20A1 /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
 		56A8F1722C957737003E20A1 /* HeartRateMonitor.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = HeartRateMonitor.xcdatamodel; sourceTree = "<group>"; };
+		56A8F17D2C9577E8003E20A1 /* HeartRateMonitorWatch Watch App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "HeartRateMonitorWatch Watch App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		56A8F17F2C9577E8003E20A1 /* HeartRateMonitorWatchApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeartRateMonitorWatchApp.swift; sourceTree = "<group>"; };
+		56A8F1812C9577E8003E20A1 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		56A8F1832C9577EA003E20A1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		56A8F1862C9577EA003E20A1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		56A8F18F2C957845003E20A1 /* HeartRateMonitor.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = HeartRateMonitor.entitlements; sourceTree = "<group>"; };
+		56A8F1902C957854003E20A1 /* HeartRateMonitorWatch Watch App.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "HeartRateMonitorWatch Watch App.entitlements"; sourceTree = "<group>"; };
+		56A8F1912C9583F8003E20A1 /* HeartRateMonitorWatch-Watch-App-Info.plist */ = {isa = PBXFileReference; explicitFileType = text.plist.xml; path = "HeartRateMonitorWatch-Watch-App-Info.plist"; sourceTree = SOURCE_ROOT; };
+		56A8F1922C95852A003E20A1 /* Info.plist */ = {isa = PBXFileReference; explicitFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		56A8F1992C959D32003E20A1 /* WatchConnectivity.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WatchConnectivity.framework; path = Platforms/WatchOS.platform/Developer/SDKs/WatchOS10.5.sdk/System/Library/Frameworks/WatchConnectivity.framework; sourceTree = DEVELOPER_DIR; };
+		56A8F19B2C959F3F003E20A1 /* HealthKitManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HealthKitManager.swift; sourceTree = "<group>"; };
+		56A8F19F2C95A0A8003E20A1 /* WatchConnectivity.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WatchConnectivity.framework; path = System/Library/Frameworks/WatchConnectivity.framework; sourceTree = SDKROOT; };
+		56CF21C32CE452C000E8BF81 /* HeartRateMonitorDebug.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = HeartRateMonitorDebug.entitlements; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -30,6 +361,16 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				56A8F1A02C95A0A8003E20A1 /* WatchConnectivity.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		56A8F17A2C9577E8003E20A1 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				56538C312CED0F75002EE1B9 /* CoreBluetooth.framework in Frameworks */,
+				56538C342CED0F78002EE1B9 /* WatchConnectivity.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -40,7 +381,9 @@
 			isa = PBXGroup;
 			children = (
 				56A8F1652C957735003E20A1 /* HeartRateMonitor */,
+				56A8F17E2C9577E8003E20A1 /* HeartRateMonitorWatch Watch App */,
 				56A8F1642C957735003E20A1 /* Products */,
+				56A8F1982C959D32003E20A1 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -48,6 +391,7 @@
 			isa = PBXGroup;
 			children = (
 				56A8F1632C957735003E20A1 /* HeartRateMonitor.app */,
+				56A8F17D2C9577E8003E20A1 /* HeartRateMonitorWatch Watch App.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -55,6 +399,12 @@
 		56A8F1652C957735003E20A1 /* HeartRateMonitor */ = {
 			isa = PBXGroup;
 			children = (
+				565195852CE886AB0060FA4A /* HealthDataExporter.swift */,
+				56CF21C32CE452C000E8BF81 /* HeartRateMonitorDebug.entitlements */,
+				567E3D122CAC8F7900F35AE6 /* AppDelegate.swift */,
+				56A8F1922C95852A003E20A1 /* Info.plist */,
+				5663F98E2D036948009387D2 /* WatchConnectionManager.swift */,
+				56A8F18F2C957845003E20A1 /* HeartRateMonitor.entitlements */,
 				56A8F1662C957735003E20A1 /* HeartRateMonitorApp.swift */,
 				56A8F1682C957735003E20A1 /* ContentView.swift */,
 				56A8F16A2C957737003E20A1 /* Assets.xcassets */,
@@ -73,6 +423,132 @@
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
+		56A8F17E2C9577E8003E20A1 /* HeartRateMonitorWatch Watch App */ = {
+			isa = PBXGroup;
+			children = (
+				56629C1E2CDFC7040036E341 /* HeartRateMonitorWatch Watch AppDebug.entitlements */,
+				56A8F1912C9583F8003E20A1 /* HeartRateMonitorWatch-Watch-App-Info.plist */,
+				56A8F1902C957854003E20A1 /* HeartRateMonitorWatch Watch App.entitlements */,
+				56A8F17F2C9577E8003E20A1 /* HeartRateMonitorWatchApp.swift */,
+				56A8F1812C9577E8003E20A1 /* ContentView.swift */,
+				56A8F1832C9577EA003E20A1 /* Assets.xcassets */,
+				56A8F1852C9577EA003E20A1 /* Preview Content */,
+				56A8F19B2C959F3F003E20A1 /* HealthKitManager.swift */,
+				56755D4C2CECDFD10010A8C8 /* InterfaceController.swift */,
+				567E3D162CAC8FE600F35AE6 /* ExtensionDelegate.swift */,
+			);
+			path = "HeartRateMonitorWatch Watch App";
+			sourceTree = "<group>";
+		};
+		56A8F1852C9577EA003E20A1 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				56A8F1862C9577EA003E20A1 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		56A8F1982C959D32003E20A1 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				56538C2A2CED0F4D002EE1B9 /* CoreBluetooth.framework */,
+				56A8F19F2C95A0A8003E20A1 /* WatchConnectivity.framework */,
+				56A8F1992C959D32003E20A1 /* WatchConnectivity.framework */,
+				560CE9D22CF376B400136D40 /* A_1 10.wav */,
+				560CE9D32CF376B400136D40 /* A_2 10.wav */,
+				560CE9D42CF376B400136D40 /* A_3 10.wav */,
+				560CE9D52CF376B400136D40 /* A_4 10.wav */,
+				560CE9D62CF376B400136D40 /* A_5 10.wav */,
+				560CE9D72CF376B400136D40 /* A_6 10.wav */,
+				560CE9D82CF376B400136D40 /* A_7 10.wav */,
+				568569D32CF3B30E00D2B765 /* A_1 15.wav */,
+				56856A3C2CF3C6B800D2B765 /* A_1.wav */,
+				56856A3D2CF3C6B800D2B765 /* A_2.wav */,
+				56856A3E2CF3C6B800D2B765 /* A_3.wav */,
+				56856A3F2CF3C6B800D2B765 /* A_4.wav */,
+				56856A402CF3C6B800D2B765 /* A_5.wav */,
+				56856A412CF3C6B800D2B765 /* A_6.wav */,
+				56856A422CF3C6B800D2B765 /* A_7.wav */,
+				56856A432CF3C6B800D2B765 /* A_8.wav */,
+				56856A442CF3C6B800D2B765 /* A_9.wav */,
+				56856A452CF3C6B800D2B765 /* A_10.wav */,
+				56856A462CF3C6B800D2B765 /* A_11.wav */,
+				56856A472CF3C6B800D2B765 /* A_12.wav */,
+				56856A482CF3C6B800D2B765 /* A_13.wav */,
+				56856A492CF3C6B800D2B765 /* MainTrack.wav */,
+				56856A4A2CF3C6B800D2B765 /* S_1.wav */,
+				56856A4B2CF3C6B800D2B765 /* S_2.wav */,
+				56856A4C2CF3C6B800D2B765 /* S_3.wav */,
+				56856A4D2CF3C6B800D2B765 /* S_4.wav */,
+				56856A4E2CF3C6B800D2B765 /* S_5.wav */,
+				56856A4F2CF3C6B800D2B765 /* S_6.wav */,
+				56856A502CF3C6B800D2B765 /* S_7.wav */,
+				56856A512CF3C6B800D2B765 /* S_8.wav */,
+				56856A522CF3C6B800D2B765 /* S_9.wav */,
+				56856A532CF3C6B800D2B765 /* S_10.wav */,
+				56856A542CF3C6B800D2B765 /* S_11.wav */,
+				56856A552CF3C6B800D2B765 /* S_12.wav */,
+				56856A562CF3C6B800D2B765 /* S_13.wav */,
+				568569D42CF3B30E00D2B765 /* A_2 15.wav */,
+				568569D52CF3B30E00D2B765 /* A_3 15.wav */,
+				568569D62CF3B30E00D2B765 /* A_4 15.wav */,
+				568569D72CF3B30E00D2B765 /* A_5 15.wav */,
+				568569D82CF3B30E00D2B765 /* A_6 15.wav */,
+				568569D92CF3B30E00D2B765 /* A_7 15.wav */,
+				568569DA2CF3B30E00D2B765 /* A_8 15.wav */,
+				568569DB2CF3B30E00D2B765 /* A_9 15.wav */,
+				568569DC2CF3B30E00D2B765 /* A_10 15.wav */,
+				568569DD2CF3B30E00D2B765 /* A_11 15.wav */,
+				568569DE2CF3B30E00D2B765 /* A_12 15.wav */,
+				568569DF2CF3B30E00D2B765 /* A_13 15.wav */,
+				568569E02CF3B30E00D2B765 /* A_14 15.wav */,
+				568569E12CF3B30E00D2B765 /* A_15 15.wav */,
+				568569E22CF3B30E00D2B765 /* A_16 15.wav */,
+				568569E32CF3B30E00D2B765 /* A_17 15.wav */,
+				568569E42CF3B30E00D2B765 /* MainTrack 15.wav */,
+				568569E52CF3B30E00D2B765 /* S_1 15.wav */,
+				568569E62CF3B30E00D2B765 /* S_2 15.wav */,
+				568569E72CF3B30E00D2B765 /* S_3 15.wav */,
+				568569E82CF3B30E00D2B765 /* S_4 15.wav */,
+				568569E92CF3B30E00D2B765 /* S_5 15.wav */,
+				568569EA2CF3B30E00D2B765 /* S_6 15.wav */,
+				568569EB2CF3B30E00D2B765 /* S_7 15.wav */,
+				568569EC2CF3B30E00D2B765 /* S_8 15.wav */,
+				568569ED2CF3B30E00D2B765 /* S_9 15.wav */,
+				568569EE2CF3B30E00D2B765 /* S_10 15.wav */,
+				568569EF2CF3B30E00D2B765 /* S_11 15.wav */,
+				568569F02CF3B30E00D2B765 /* S_12 15.wav */,
+				568569F12CF3B30E00D2B765 /* S_13 15.wav */,
+				568569F22CF3B30E00D2B765 /* S_14 15.wav */,
+				568569F32CF3B30E00D2B765 /* S_15 15.wav */,
+				568569F42CF3B30E00D2B765 /* S_16 15.wav */,
+				568569F52CF3B30E00D2B765 /* S_17 15.wav */,
+				560CE9D92CF376B400136D40 /* A_8 10.wav */,
+				560CE9DA2CF376B400136D40 /* A_9 10.wav */,
+				560CE9DB2CF376B400136D40 /* A_10 10.wav */,
+				560CE9DC2CF376B400136D40 /* A_11 10.wav */,
+				560CE9DD2CF376B400136D40 /* A_12 10.wav */,
+				560CE9DE2CF376B400136D40 /* A_13 10.wav */,
+				560CE9DF2CF376B400136D40 /* A_14 10.wav */,
+				560CE9E02CF376B400136D40 /* MainTrack 10.wav */,
+				560CE9E12CF376B400136D40 /* S_1 10.wav */,
+				560CE9E22CF376B400136D40 /* S_2 10.wav */,
+				560CE9E32CF376B400136D40 /* S_3 10.wav */,
+				560CE9E42CF376B400136D40 /* S_4 10.wav */,
+				560CE9E52CF376B400136D40 /* S_5 10.wav */,
+				560CE9E62CF376B400136D40 /* S_6 10.wav */,
+				560CE9E72CF376B400136D40 /* S_7 10.wav */,
+				560CE9E82CF376B400136D40 /* S_8 10.wav */,
+				560CE9E92CF376B400136D40 /* S_9 10.wav */,
+				560CE9EA2CF376B400136D40 /* S_10 10.wav */,
+				560CE9EB2CF376B400136D40 /* S_11 10.wav */,
+				560CE9EC2CF376B400136D40 /* S_12 10.wav */,
+				560CE9ED2CF376B400136D40 /* S_13 10.wav */,
+				560CE9EE2CF376B400136D40 /* S_14 10.wav */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -83,14 +559,33 @@
 				56A8F15F2C957735003E20A1 /* Sources */,
 				56A8F1602C957735003E20A1 /* Frameworks */,
 				56A8F1612C957735003E20A1 /* Resources */,
+				56A8F18E2C9577EA003E20A1 /* Embed Watch Content */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				56A8F1892C9577EA003E20A1 /* PBXTargetDependency */,
+			);
+			name = HeartRateMonitor;
+			productName = HeartRateMonitor;
+			productReference = 56A8F1632C957735003E20A1 /* HeartRateMonitor.app */;
+			productType = "com.apple.product-type.application";
+		};
+		56A8F17C2C9577E8003E20A1 /* HeartRateMonitorWatch Watch App */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 56A8F18B2C9577EA003E20A1 /* Build configuration list for PBXNativeTarget "HeartRateMonitorWatch Watch App" */;
+			buildPhases = (
+				56A8F1792C9577E8003E20A1 /* Sources */,
+				56A8F17A2C9577E8003E20A1 /* Frameworks */,
+				56A8F17B2C9577E8003E20A1 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = HeartRateMonitor;
-			productName = HeartRateMonitor;
-			productReference = 56A8F1632C957735003E20A1 /* HeartRateMonitor.app */;
+			name = "HeartRateMonitorWatch Watch App";
+			productName = "HeartRateMonitorWatch Watch App";
+			productReference = 56A8F17D2C9577E8003E20A1 /* HeartRateMonitorWatch Watch App.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -101,9 +596,12 @@
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1540;
-				LastUpgradeCheck = 1540;
+				LastUpgradeCheck = 1600;
 				TargetAttributes = {
 					56A8F1622C957735003E20A1 = {
+						CreatedOnToolsVersion = 15.4;
+					};
+					56A8F17C2C9577E8003E20A1 = {
 						CreatedOnToolsVersion = 15.4;
 					};
 				};
@@ -122,6 +620,7 @@
 			projectRoot = "";
 			targets = (
 				56A8F1622C957735003E20A1 /* HeartRateMonitor */,
+				56A8F17C2C9577E8003E20A1 /* HeartRateMonitorWatch Watch App */,
 			);
 		};
 /* End PBXProject section */
@@ -132,7 +631,198 @@
 			buildActionMask = 2147483647;
 			files = (
 				56A8F16E2C957737003E20A1 /* Preview Assets.xcassets in Resources */,
+				560CEA0C2CF376B500136D40 /* S_11 10.wav in Resources */,
+				560CEA0D2CF376B500136D40 /* A_3 10.wav in Resources */,
+				560CEA0E2CF376B500136D40 /* A_7 10.wav in Resources */,
+				560CEA0F2CF376B500136D40 /* S_1 10.wav in Resources */,
+				560CEA102CF376B500136D40 /* A_2 10.wav in Resources */,
+				560CEA112CF376B500136D40 /* A_11 10.wav in Resources */,
+				560CEA122CF376B500136D40 /* A_5 10.wav in Resources */,
+				568569F62CF3B30F00D2B765 /* S_9 15.wav in Resources */,
+				568569F72CF3B30F00D2B765 /* A_10 15.wav in Resources */,
+				568569F82CF3B30F00D2B765 /* A_11 15.wav in Resources */,
+				568569F92CF3B30F00D2B765 /* A_4 15.wav in Resources */,
+				568569FA2CF3B30F00D2B765 /* S_5 15.wav in Resources */,
+				568569FB2CF3B30F00D2B765 /* S_3 15.wav in Resources */,
+				568569FC2CF3B30F00D2B765 /* S_16 15.wav in Resources */,
+				568569FD2CF3B30F00D2B765 /* A_12 15.wav in Resources */,
+				568569FE2CF3B30F00D2B765 /* S_6 15.wav in Resources */,
+				568569FF2CF3B30F00D2B765 /* S_4 15.wav in Resources */,
+				56856A002CF3B30F00D2B765 /* S_15 15.wav in Resources */,
+				56856A012CF3B30F00D2B765 /* S_2 15.wav in Resources */,
+				56856A022CF3B30F00D2B765 /* A_8 15.wav in Resources */,
+				56856A032CF3B30F00D2B765 /* A_17 15.wav in Resources */,
+				56856A042CF3B30F00D2B765 /* A_16 15.wav in Resources */,
+				56856A052CF3B30F00D2B765 /* MainTrack 15.wav in Resources */,
+				56856A062CF3B30F00D2B765 /* S_10 15.wav in Resources */,
+				56856A572CF3C6B900D2B765 /* A_4.wav in Resources */,
+				56856A582CF3C6B900D2B765 /* MainTrack.wav in Resources */,
+				56856A592CF3C6B900D2B765 /* A_1.wav in Resources */,
+				56856A5A2CF3C6B900D2B765 /* A_5.wav in Resources */,
+				56856A5B2CF3C6B900D2B765 /* S_7.wav in Resources */,
+				56856A5C2CF3C6B900D2B765 /* S_12.wav in Resources */,
+				56856A5D2CF3C6B900D2B765 /* A_13.wav in Resources */,
+				56856A5E2CF3C6B900D2B765 /* S_3.wav in Resources */,
+				56856A5F2CF3C6B900D2B765 /* A_10.wav in Resources */,
+				56856A602CF3C6B900D2B765 /* A_6.wav in Resources */,
+				56856A612CF3C6B900D2B765 /* S_13.wav in Resources */,
+				56856A622CF3C6B900D2B765 /* A_9.wav in Resources */,
+				56856A632CF3C6B900D2B765 /* S_1.wav in Resources */,
+				56856A642CF3C6B900D2B765 /* S_4.wav in Resources */,
+				56856A652CF3C6B900D2B765 /* S_5.wav in Resources */,
+				56856A662CF3C6B900D2B765 /* A_2.wav in Resources */,
+				56856A672CF3C6B900D2B765 /* A_8.wav in Resources */,
+				56856A682CF3C6B900D2B765 /* A_12.wav in Resources */,
+				56856A692CF3C6B900D2B765 /* S_6.wav in Resources */,
+				56856A6A2CF3C6B900D2B765 /* S_8.wav in Resources */,
+				56856A6B2CF3C6B900D2B765 /* S_11.wav in Resources */,
+				56856A6C2CF3C6B900D2B765 /* A_3.wav in Resources */,
+				56856A6D2CF3C6B900D2B765 /* S_2.wav in Resources */,
+				56856A6E2CF3C6B900D2B765 /* S_9.wav in Resources */,
+				56856A6F2CF3C6B900D2B765 /* A_7.wav in Resources */,
+				56856A702CF3C6B900D2B765 /* A_11.wav in Resources */,
+				56856A712CF3C6B900D2B765 /* S_10.wav in Resources */,
+				56856A072CF3B30F00D2B765 /* S_11 15.wav in Resources */,
+				56856A082CF3B30F00D2B765 /* A_13 15.wav in Resources */,
+				56856A092CF3B30F00D2B765 /* S_13 15.wav in Resources */,
+				56856A0A2CF3B30F00D2B765 /* A_2 15.wav in Resources */,
+				56856A0B2CF3B30F00D2B765 /* A_7 15.wav in Resources */,
+				56856A0C2CF3B30F00D2B765 /* A_1 15.wav in Resources */,
+				56856A0D2CF3B30F00D2B765 /* S_7 15.wav in Resources */,
+				56856A0E2CF3B30F00D2B765 /* A_9 15.wav in Resources */,
+				56856A0F2CF3B30F00D2B765 /* A_15 15.wav in Resources */,
+				56856A102CF3B30F00D2B765 /* S_1 15.wav in Resources */,
+				56856A112CF3B30F00D2B765 /* S_8 15.wav in Resources */,
+				56856A122CF3B30F00D2B765 /* A_6 15.wav in Resources */,
+				56856A132CF3B30F00D2B765 /* A_3 15.wav in Resources */,
+				56856A142CF3B30F00D2B765 /* S_12 15.wav in Resources */,
+				56856A152CF3B30F00D2B765 /* S_14 15.wav in Resources */,
+				56856A162CF3B30F00D2B765 /* A_14 15.wav in Resources */,
+				56856A172CF3B30F00D2B765 /* A_5 15.wav in Resources */,
+				56856A182CF3B30F00D2B765 /* S_17 15.wav in Resources */,
+				560CEA132CF376B500136D40 /* A_4 10.wav in Resources */,
+				560CEA142CF376B500136D40 /* S_3 10.wav in Resources */,
+				560CEA152CF376B500136D40 /* S_12 10.wav in Resources */,
+				560CEA162CF376B500136D40 /* S_8 10.wav in Resources */,
+				560CEA172CF376B500136D40 /* S_14 10.wav in Resources */,
+				560CEA182CF376B500136D40 /* S_10 10.wav in Resources */,
+				560CEA192CF376B500136D40 /* A_9 10.wav in Resources */,
+				560CEA1A2CF376B500136D40 /* S_6 10.wav in Resources */,
+				560CEA1B2CF376B500136D40 /* S_7 10.wav in Resources */,
+				560CEA1C2CF376B500136D40 /* A_6 10.wav in Resources */,
+				560CEA1D2CF376B500136D40 /* A_1 10.wav in Resources */,
+				560CEA1E2CF376B500136D40 /* A_13 10.wav in Resources */,
+				560CEA1F2CF376B500136D40 /* A_14 10.wav in Resources */,
+				560CEA202CF376B500136D40 /* S_5 10.wav in Resources */,
+				560CEA212CF376B500136D40 /* S_13 10.wav in Resources */,
+				560CEA222CF376B500136D40 /* MainTrack 10.wav in Resources */,
+				560CEA232CF376B500136D40 /* S_2 10.wav in Resources */,
+				560CEA242CF376B500136D40 /* S_4 10.wav in Resources */,
+				560CEA252CF376B500136D40 /* A_8 10.wav in Resources */,
+				560CEA262CF376B500136D40 /* A_10 10.wav in Resources */,
+				560CEA272CF376B500136D40 /* A_12 10.wav in Resources */,
+				560CEA282CF376B500136D40 /* S_9 10.wav in Resources */,
 				56A8F16B2C957737003E20A1 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		56A8F17B2C9577E8003E20A1 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				56A8F1872C9577EA003E20A1 /* Preview Assets.xcassets in Resources */,
+				560CE9EF2CF376B500136D40 /* S_11 10.wav in Resources */,
+				560CE9F02CF376B500136D40 /* A_3 10.wav in Resources */,
+				560CE9F12CF376B500136D40 /* A_7 10.wav in Resources */,
+				560CE9F22CF376B500136D40 /* S_1 10.wav in Resources */,
+				560CE9F32CF376B500136D40 /* A_2 10.wav in Resources */,
+				560CE9F42CF376B500136D40 /* A_11 10.wav in Resources */,
+				560CE9F52CF376B500136D40 /* A_5 10.wav in Resources */,
+				56856A192CF3B30F00D2B765 /* S_9 15.wav in Resources */,
+				56856A1A2CF3B30F00D2B765 /* A_10 15.wav in Resources */,
+				56856A1B2CF3B30F00D2B765 /* A_11 15.wav in Resources */,
+				56856A1C2CF3B30F00D2B765 /* A_4 15.wav in Resources */,
+				56856A1D2CF3B30F00D2B765 /* S_5 15.wav in Resources */,
+				56856A1E2CF3B30F00D2B765 /* S_3 15.wav in Resources */,
+				56856A1F2CF3B30F00D2B765 /* S_16 15.wav in Resources */,
+				56856A202CF3B30F00D2B765 /* A_12 15.wav in Resources */,
+				56856A212CF3B30F00D2B765 /* S_6 15.wav in Resources */,
+				56856A222CF3B30F00D2B765 /* S_4 15.wav in Resources */,
+				56856A232CF3B30F00D2B765 /* S_15 15.wav in Resources */,
+				56856A242CF3B30F00D2B765 /* S_2 15.wav in Resources */,
+				56856A252CF3B30F00D2B765 /* A_8 15.wav in Resources */,
+				56856A262CF3B30F00D2B765 /* A_17 15.wav in Resources */,
+				56856A272CF3B30F00D2B765 /* A_16 15.wav in Resources */,
+				56856A282CF3B30F00D2B765 /* MainTrack 15.wav in Resources */,
+				56856A292CF3B30F00D2B765 /* S_10 15.wav in Resources */,
+				56856A722CF3C6B900D2B765 /* A_4.wav in Resources */,
+				56856A732CF3C6B900D2B765 /* MainTrack.wav in Resources */,
+				56856A742CF3C6B900D2B765 /* A_1.wav in Resources */,
+				56856A752CF3C6B900D2B765 /* A_5.wav in Resources */,
+				56856A762CF3C6B900D2B765 /* S_7.wav in Resources */,
+				56856A772CF3C6B900D2B765 /* S_12.wav in Resources */,
+				56856A782CF3C6B900D2B765 /* A_13.wav in Resources */,
+				56856A792CF3C6B900D2B765 /* S_3.wav in Resources */,
+				56856A7A2CF3C6B900D2B765 /* A_10.wav in Resources */,
+				56856A7B2CF3C6B900D2B765 /* A_6.wav in Resources */,
+				56856A7C2CF3C6B900D2B765 /* S_13.wav in Resources */,
+				56856A7D2CF3C6B900D2B765 /* A_9.wav in Resources */,
+				56856A7E2CF3C6B900D2B765 /* S_1.wav in Resources */,
+				56856A7F2CF3C6B900D2B765 /* S_4.wav in Resources */,
+				56856A802CF3C6B900D2B765 /* S_5.wav in Resources */,
+				56856A812CF3C6B900D2B765 /* A_2.wav in Resources */,
+				56856A822CF3C6B900D2B765 /* A_8.wav in Resources */,
+				56856A832CF3C6B900D2B765 /* A_12.wav in Resources */,
+				56856A842CF3C6B900D2B765 /* S_6.wav in Resources */,
+				56856A852CF3C6B900D2B765 /* S_8.wav in Resources */,
+				56856A862CF3C6B900D2B765 /* S_11.wav in Resources */,
+				56856A872CF3C6B900D2B765 /* A_3.wav in Resources */,
+				56856A882CF3C6B900D2B765 /* S_2.wav in Resources */,
+				56856A892CF3C6B900D2B765 /* S_9.wav in Resources */,
+				56856A8A2CF3C6B900D2B765 /* A_7.wav in Resources */,
+				56856A8B2CF3C6B900D2B765 /* A_11.wav in Resources */,
+				56856A8C2CF3C6B900D2B765 /* S_10.wav in Resources */,
+				56856A2A2CF3B30F00D2B765 /* S_11 15.wav in Resources */,
+				56856A2B2CF3B30F00D2B765 /* A_13 15.wav in Resources */,
+				56856A2C2CF3B30F00D2B765 /* S_13 15.wav in Resources */,
+				56856A2D2CF3B30F00D2B765 /* A_2 15.wav in Resources */,
+				56856A2E2CF3B30F00D2B765 /* A_7 15.wav in Resources */,
+				56856A2F2CF3B30F00D2B765 /* A_1 15.wav in Resources */,
+				56856A302CF3B30F00D2B765 /* S_7 15.wav in Resources */,
+				56856A312CF3B30F00D2B765 /* A_9 15.wav in Resources */,
+				56856A322CF3B30F00D2B765 /* A_15 15.wav in Resources */,
+				56856A332CF3B30F00D2B765 /* S_1 15.wav in Resources */,
+				56856A342CF3B30F00D2B765 /* S_8 15.wav in Resources */,
+				56856A352CF3B30F00D2B765 /* A_6 15.wav in Resources */,
+				56856A362CF3B30F00D2B765 /* A_3 15.wav in Resources */,
+				56856A372CF3B30F00D2B765 /* S_12 15.wav in Resources */,
+				56856A382CF3B30F00D2B765 /* S_14 15.wav in Resources */,
+				56856A392CF3B30F00D2B765 /* A_14 15.wav in Resources */,
+				56856A3A2CF3B30F00D2B765 /* A_5 15.wav in Resources */,
+				56856A3B2CF3B30F00D2B765 /* S_17 15.wav in Resources */,
+				560CE9F62CF376B500136D40 /* A_4 10.wav in Resources */,
+				560CE9F72CF376B500136D40 /* S_3 10.wav in Resources */,
+				560CE9F82CF376B500136D40 /* S_12 10.wav in Resources */,
+				560CE9F92CF376B500136D40 /* S_8 10.wav in Resources */,
+				560CE9FA2CF376B500136D40 /* S_14 10.wav in Resources */,
+				560CE9FB2CF376B500136D40 /* S_10 10.wav in Resources */,
+				560CE9FC2CF376B500136D40 /* A_9 10.wav in Resources */,
+				560CE9FD2CF376B500136D40 /* S_6 10.wav in Resources */,
+				560CE9FE2CF376B500136D40 /* S_7 10.wav in Resources */,
+				560CE9FF2CF376B500136D40 /* A_6 10.wav in Resources */,
+				560CEA002CF376B500136D40 /* A_1 10.wav in Resources */,
+				560CEA012CF376B500136D40 /* A_13 10.wav in Resources */,
+				560CEA022CF376B500136D40 /* A_14 10.wav in Resources */,
+				560CEA032CF376B500136D40 /* S_5 10.wav in Resources */,
+				560CEA042CF376B500136D40 /* S_13 10.wav in Resources */,
+				560CEA052CF376B500136D40 /* MainTrack 10.wav in Resources */,
+				560CEA062CF376B500136D40 /* S_2 10.wav in Resources */,
+				560CEA072CF376B500136D40 /* S_4 10.wav in Resources */,
+				560CEA082CF376B500136D40 /* A_8 10.wav in Resources */,
+				560CEA092CF376B500136D40 /* A_10 10.wav in Resources */,
+				560CEA0A2CF376B500136D40 /* A_12 10.wav in Resources */,
+				560CEA0B2CF376B500136D40 /* S_9 10.wav in Resources */,
+				56A8F1842C9577EA003E20A1 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -146,11 +836,34 @@
 				56A8F1702C957737003E20A1 /* Persistence.swift in Sources */,
 				56A8F1732C957737003E20A1 /* HeartRateMonitor.xcdatamodeld in Sources */,
 				56A8F1692C957735003E20A1 /* ContentView.swift in Sources */,
+				567E3D132CAC8FBF00F35AE6 /* AppDelegate.swift in Sources */,
+				565195862CE886C80060FA4A /* HealthDataExporter.swift in Sources */,
+				5663F98F2D03695C009387D2 /* WatchConnectionManager.swift in Sources */,
 				56A8F1672C957735003E20A1 /* HeartRateMonitorApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		56A8F1792C9577E8003E20A1 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				56A8F1822C9577E8003E20A1 /* ContentView.swift in Sources */,
+				567E3D172CAC8FE600F35AE6 /* ExtensionDelegate.swift in Sources */,
+				56755D4D2CECDFE30010A8C8 /* InterfaceController.swift in Sources */,
+				56A8F1802C9577E8003E20A1 /* HeartRateMonitorWatchApp.swift in Sources */,
+				56A8F19C2C959F3F003E20A1 /* HealthKitManager.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		56A8F1892C9577EA003E20A1 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 56A8F17C2C9577E8003E20A1 /* HeartRateMonitorWatch Watch App */;
+			targetProxy = 56A8F1882C9577EA003E20A1 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
 		56A8F1742C957737003E20A1 /* Debug */ = {
@@ -277,12 +990,18 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = HeartRateMonitor/HeartRateMonitorDebug.entitlements;
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"HeartRateMonitor/Preview Content\"";
-				DEVELOPMENT_TEAM = FH332FBHV6;
+				DEVELOPMENT_TEAM = TB7L478MW6;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = HeartRateMonitor/Info.plist;
+				INFOPLIST_KEY_LSApplicationCategoryType = "";
+				INFOPLIST_KEY_NSHealthShareUsageDescription = "This app uses Health data to monitor your heart rate and provide personalized workout recommendations.";
+				INFOPLIST_KEY_NSHealthUpdateUsageDescription = "This app needs access to Health data to track your workouts and improve your fitness experience.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -295,9 +1014,11 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.raj.HeartRateMonitor;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
+				WATCHOS_DEPLOYMENT_TARGET = 11.0;
 			};
 			name = Debug;
 		};
@@ -306,12 +1027,18 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = HeartRateMonitor/HeartRateMonitor.entitlements;
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"HeartRateMonitor/Preview Content\"";
-				DEVELOPMENT_TEAM = FH332FBHV6;
+				DEVELOPMENT_TEAM = TB7L478MW6;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = HeartRateMonitor/Info.plist;
+				INFOPLIST_KEY_LSApplicationCategoryType = "";
+				INFOPLIST_KEY_NSHealthShareUsageDescription = "This app uses Health data to monitor your heart rate and provide personalized workout recommendations.";
+				INFOPLIST_KEY_NSHealthUpdateUsageDescription = "This app needs access to Health data to track your workouts and improve your fitness experience.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -324,9 +1051,85 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.raj.HeartRateMonitor;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
+				WATCHOS_DEPLOYMENT_TARGET = 11.0;
+			};
+			name = Release;
+		};
+		56A8F18C2C9577EA003E20A1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
+				CODE_SIGN_ENTITLEMENTS = "HeartRateMonitorWatch Watch App/HeartRateMonitorWatch Watch AppDebug.entitlements";
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"HeartRateMonitorWatch Watch App/Preview Content\"";
+				DEVELOPMENT_TEAM = TB7L478MW6;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "HeartRateMonitorWatch-Watch-App-Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = HeartRateMonitorWatch;
+				INFOPLIST_KEY_NSHealthShareUsageDescription = "This app uses Health data to monitor your heart rate and provide personalized workout recommendations.";
+				INFOPLIST_KEY_NSHealthUpdateUsageDescription = "This app needs access to Health data to track your workouts and improve your fitness experience.";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				INFOPLIST_KEY_WKCompanionAppBundleIdentifier = com.raj.HeartRateMonitor;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.2;
+				PRODUCT_BUNDLE_IDENTIFIER = com.raj.HeartRateMonitor.watchkitapp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SDKROOT = watchos;
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				WATCHOS_DEPLOYMENT_TARGET = 11.0;
+			};
+			name = Debug;
+		};
+		56A8F18D2C9577EA003E20A1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
+				CODE_SIGN_ENTITLEMENTS = "HeartRateMonitorWatch Watch App/HeartRateMonitorWatch Watch App.entitlements";
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"HeartRateMonitorWatch Watch App/Preview Content\"";
+				DEVELOPMENT_TEAM = TB7L478MW6;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "HeartRateMonitorWatch-Watch-App-Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = HeartRateMonitorWatch;
+				INFOPLIST_KEY_NSHealthShareUsageDescription = "This app uses Health data to monitor your heart rate and provide personalized workout recommendations.";
+				INFOPLIST_KEY_NSHealthUpdateUsageDescription = "This app needs access to Health data to track your workouts and improve your fitness experience.";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				INFOPLIST_KEY_WKCompanionAppBundleIdentifier = com.raj.HeartRateMonitor;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.2;
+				PRODUCT_BUNDLE_IDENTIFIER = com.raj.HeartRateMonitor.watchkitapp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SDKROOT = watchos;
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				WATCHOS_DEPLOYMENT_TARGET = 11.0;
 			};
 			name = Release;
 		};
@@ -347,6 +1150,15 @@
 			buildConfigurations = (
 				56A8F1772C957737003E20A1 /* Debug */,
 				56A8F1782C957737003E20A1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		56A8F18B2C9577EA003E20A1 /* Build configuration list for PBXNativeTarget "HeartRateMonitorWatch Watch App" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				56A8F18C2C9577EA003E20A1 /* Debug */,
+				56A8F18D2C9577EA003E20A1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
